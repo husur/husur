@@ -7,6 +7,7 @@ Ingénieur mobile à Saint-Étienne. Diplômé de Télécom Saint-Étienne (Data
 - **[Sainté Now](https://saintenow.fr)** : les prochains passages du réseau STAS de Saint-Étienne en temps réel, jusque sur l'écran verrouillé. Sur l'App Store. Kotlin Multiplatform, SwiftUI, Compose.
 - **[RunPath](https://www.runpath.fr)** : génération de fichiers GPX pour la course, le vélo et la randonnée, sur de vraies routes, compatibles Strava, Garmin et Komoot.
 - **[Prêt à imprimer](https://pretaimprimer.fr)** : trente et un générateurs de documents A4 à remplir au stylo, composés entièrement dans le navigateur. Next.js, React.
+- **[Cause gaga](https://github.com/husur/cause-gaga)** : un plugin Claude Code qui fait causer Claude en gaga, le parler populaire de Saint-Étienne, et le lui fait comprendre.
 
 ## Stack
 
